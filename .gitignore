@@ -1,0 +1,17 @@
+/bootstrap/compiled.php
+composer.phar
+composer.lock
+artisan
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+/vendor
+/public/admin
+/public/images/blog
+/public/images/icons
+/app/packages
+/app/config/packages
+/public/js/plugins
+/public/.htaccess
+/public/.htpasswd
